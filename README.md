@@ -13,7 +13,7 @@ cross-encoder reranking, cited answers and an evaluation suite.
 
 | | v1 | v2 |
 |---|---|---|
-| Retrieval nDCG@10 (74-query benchmark) | 0.423 | **0.832** |
+| Retrieval nDCG@10 (74 answerable queries of the 81-query benchmark) | 0.423 | **0.832** |
 | Hit@5 (a fully relevant recipe in the top 5) | 62% | **100%** |
 | Darija-spelled queries (tanjia, bstilla, rafissa…) | 0.095 | **0.770** |
 | Moroccan dishes asked in French | 0.139 | **0.795** |

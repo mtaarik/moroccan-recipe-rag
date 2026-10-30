@@ -42,8 +42,6 @@ logs/
 
 # --- Tooling ---
 .pytest_cache/
-# --- Local tool config ---
-.claude/
 colab_jobs.parquet
 embeddings.zip
 
